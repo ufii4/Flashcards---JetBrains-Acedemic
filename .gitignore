@@ -1,0 +1,15 @@
+# Default ignored files
+.idea/shelf/
+.idea/workspace.xml
+# Datasource local storage ignored files
+.idea/dataSources/
+.idea/dataSources.local.xml
+# Zeppelin ignored files
+.idea/ZeppelinRemoteNotebooks/
+# Editor-based HTTP Client requests
+.idea/httpRequests/
+Flashcards - JetBrains Acedemic.iml
+out/production/Flashcards - JetBrains Acedemic/flashcards/Main.class
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
