@@ -1,0 +1,7 @@
+This file is for the project flashcards.
+add:add
+exit:exit
+import:import
+ask:ask
+export:export
+remove:remove
