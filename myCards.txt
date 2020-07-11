@@ -1,7 +1,8 @@
 This file is for the project flashcards.
-add:add
-exit:exit
-import:import
-ask:ask
-export:export
-remove:remove
+Description:Definition:Error Count
+add:add:0
+remove:remove:1
+import:import:1
+export:export:2
+ask:ask:0
+exit:exit:1
